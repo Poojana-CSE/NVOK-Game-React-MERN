@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NVOK-Game-React-MERN/static/css/main.639757a4.chunk.css",
+    "main.js": "/NVOK-Game-React-MERN/static/js/main.45d61a25.chunk.js",
+    "main.js.map": "/NVOK-Game-React-MERN/static/js/main.45d61a25.chunk.js.map",
+    "runtime~main.js": "/NVOK-Game-React-MERN/static/js/runtime~main.b12372bf.js",
+    "runtime~main.js.map": "/NVOK-Game-React-MERN/static/js/runtime~main.b12372bf.js.map",
+    "static/js/2.b836a3fe.chunk.js": "/NVOK-Game-React-MERN/static/js/2.b836a3fe.chunk.js",
+    "static/js/2.b836a3fe.chunk.js.map": "/NVOK-Game-React-MERN/static/js/2.b836a3fe.chunk.js.map",
+    "index.html": "/NVOK-Game-React-MERN/index.html",
+    "precache-manifest.a2b7e938f47c9f44cc116d3c2f046e50.js": "/NVOK-Game-React-MERN/precache-manifest.a2b7e938f47c9f44cc116d3c2f046e50.js",
+    "service-worker.js": "/NVOK-Game-React-MERN/service-worker.js",
+    "static/css/main.639757a4.chunk.css.map": "/NVOK-Game-React-MERN/static/css/main.639757a4.chunk.css.map",
+    "static/media/App.css": "/NVOK-Game-React-MERN/static/media/bg.889b8ea9.jpg",
+    "static/media/correct.mp3": "/NVOK-Game-React-MERN/static/media/correct.d27f45ad.mp3",
+    "static/media/wrong.mp3": "/NVOK-Game-React-MERN/static/media/wrong.e55862ad.mp3"
+  }
+}
