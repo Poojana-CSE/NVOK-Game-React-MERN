@@ -2,4 +2,41 @@ body{
   width: 100vh;
   height: 100vh;
   background-image: url('./assests/bg.jpg');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quiz-app{
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 5px;
+  margin-left: 700px;
+}
+.question-section{
+  text-align: center;
+}
+.options{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+button{
+  padding: 10px;
+  width: 100px;
+  margin-left: 5px;
+  background-color: aqua;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background-color 0.4s;
+}
+button:hover{
+  filter: brightness(1.2);
+}
+.timer{
+  color: green;
+}
+.timer span{
+  color: red;
 }
